@@ -1,0 +1,11 @@
+{
+  "name": "githubapp",
+  "version": "1.0.0",
+  "description": "This webapp allows anyone to see repos of any username from github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitesh",
+  "license": "ISC"
+}
